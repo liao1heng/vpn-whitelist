@@ -30,6 +30,14 @@ api.openai.com
 chat.openai.com
 platform.openai.com
 
+# Anthropic / Claude：通配规则包含主域名及子域名
+*.anthropic.com
+*.claude.ai
+*.claude.com
+*.claude.app
+*.claudeusercontent.com
+*.claudemcpcontent.com
+
 # 旧 VPN 路由白名单中明确标注的域名
 ip.cn
 
