@@ -1,0 +1,4 @@
+# Personal VPN 基础白名单
+# 一行一个域名；含 # 的行不加载。空行忽略。
+# example.com 精确匹配；*.example.com 匹配本域及子域。
+ifconfig.me
