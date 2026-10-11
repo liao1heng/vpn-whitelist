@@ -29,6 +29,10 @@ objects.githubusercontent.com
 api.openai.com
 chat.openai.com
 platform.openai.com
+auth.openai.com
+*.chatgpt.com
+*.oaistatic.com
+*.oaiusercontent.com
 
 # Anthropic / Claude：通配规则包含主域名及子域名
 *.anthropic.com
